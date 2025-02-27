@@ -1,0 +1,4 @@
+custom:
+  message: "Hello from another microservice!"
+server:
+  port: 8082
